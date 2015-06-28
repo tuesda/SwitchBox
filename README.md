@@ -23,7 +23,8 @@ and
 switchButton.setOnCheckedChangeListener(new SwitchView.OnCheckedChangeListener() {
             @Override
             public void onCheckedChanged(View view, boolean isChecked) {
-                Toast.makeText(MainActivity.this, "isChecked: " + isChecked, Toast.LENGTH_LONG).show();
+                Toast.makeText(MainActivity.this, "isChecked: " + isChecked,
+                 Toast.LENGTH_LONG).show();
             }
         });
 ```
