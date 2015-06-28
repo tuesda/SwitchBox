@@ -4,7 +4,7 @@ This is a library project with a custom view that implements open&close function
    
 ![demo](gifs/demo.gif)  
 
-###Usage###  
+###Usage###
 
 Add the SwitchView in your layout.  
 
